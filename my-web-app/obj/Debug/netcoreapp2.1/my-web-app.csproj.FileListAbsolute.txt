@@ -29,3 +29,4 @@ C:\Users\g.rao\gk-azure-test\my-web-app\obj\Debug\netcoreapp2.1\my-web-app.Views
 C:\Users\g.rao\gk-azure-test\my-web-app\obj\Debug\netcoreapp2.1\my-web-app.dll
 C:\Users\g.rao\gk-azure-test\my-web-app\obj\Debug\netcoreapp2.1\my-web-app.pdb
 C:\Users\g.rao\gk-azure-test\my-web-app\obj\Debug\netcoreapp2.1\my-web-app.csproj.CopyComplete
+C:\Users\g.rao\gk-azure-test\my-web-app\obj\Debug\netcoreapp2.1\Razor\Views\Home\SendEmail.g.cshtml.cs
